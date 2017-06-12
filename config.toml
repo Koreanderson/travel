@@ -1,0 +1,35 @@
+publishDir = "public"
+BaseUrl= "travel.koreanderson.com"
+LanguageCode= "en-EN"
+Title= "Koreanderson's Travel Log"
+paginate = 5
+DisqusShortname = ""
+Copyright = "All rights reserved - 2017"
+canonifyurls = true
+
+[params]
+  description = "The travel log of Koreanderson."
+  metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
+  cover = "images/cover.jpg"
+  author = "Brian Anderson"
+  authorlocation = ""
+  authorwebsite = ""
+  bio= "my bio"
+  logo = "images/travel-koreanderson-icon.png"
+  googleAnalyticsUserID = "UA-79101-12"
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  RSSLink = ""
+  githubName = "koreanderson"
+  twitterName = "koreanderson"
+  # facebookName = ""
+  # linkedinName = ""
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
+  
+  # Setting a value will load highlight.js and enable syntax highlighting using the style selected.
+  # See https://github.com/isagalaev/highlight.js/tree/master/src/styles for available styles
+  # A preview of above styles can be viewed at https://highlightjs.org/static/demo/
+  hjsStyle = "default"
+
+  [params.social]
+    twitter = "your_twitter"
