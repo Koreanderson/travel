@@ -6,6 +6,8 @@ paginate = 5
 DisqusShortname = ""
 Copyright = "All rights reserved - 2017"
 canonifyurls = true
+themesDir = "themes"
+theme = "casper"
 
 [params]
   description = "The travel log of Koreanderson."
