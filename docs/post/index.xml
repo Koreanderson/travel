@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Koreanderson&#39;s Travel Log</title>
+    <link>travel.koreanderson.com/post/</link>
+    <description>Recent content in Posts on Koreanderson&#39;s Travel Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-EN</language>
+    <copyright>All rights reserved - 2017</copyright>
+    <lastBuildDate>Wed, 02 Nov 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="travel.koreanderson.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Netherlands 2016</title>
+      <link>travel.koreanderson.com/post/netherlands-2016/</link>
+      <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>travel.koreanderson.com/post/netherlands-2016/</guid>
+      <description>The first stop on my first trip to the European continent. Some of the European InKAS 2016 Summer Camp participants decided to host a reunion in Amsterdam. Initially it seemed like gathering was going to be mainyl Dutch and a few other Europeans. But my good friends convinced me to not only join, but to also stay in Europe an extra week and explore.
+Highlights of the trip included riding bikes around the streets of Amsterdam, meandering through the Red-light district, a guided boat tour through the canals of the city and enjoying some quality time with good people.</description>
+    </item>
+    
+    <item>
+      <title>Koreanderson&#39;s Travel Log</title>
+      <link>travel.koreanderson.com/post/travel/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>travel.koreanderson.com/post/travel/</guid>
+      <description>Koreanderson&amp;rsquo;s Travel Log This log will serve as a way to keep track of some of the places that I&amp;rsquo;ve traveled over the years. Be aware that many of these accounts are being written several months after the actual trip has taken place so it might not be as detailed as I would have liked.</description>
+    </item>
+    
+  </channel>
+</rss>
