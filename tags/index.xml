@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Koreanderson&#39;s Travel Log</title>
-    <link>travel.koreanderson.com/tags/</link>
+    <link>https://koreanderson.github.io/travel/tags/</link>
     <description>Recent content in Tags on Koreanderson&#39;s Travel Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <copyright>All rights reserved - 2017</copyright>
     <lastBuildDate>Wed, 02 Nov 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="travel.koreanderson.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://koreanderson.github.io/travel/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2016</title>
-      <link>travel.koreanderson.com/tags/2016/</link>
+      <link>https://koreanderson.github.io/travel/tags/2016/</link>
       <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>travel.koreanderson.com/tags/2016/</guid>
+      <guid>https://koreanderson.github.io/travel/tags/2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Netherlands</title>
-      <link>travel.koreanderson.com/tags/netherlands/</link>
+      <link>https://koreanderson.github.io/travel/tags/netherlands/</link>
       <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>travel.koreanderson.com/tags/netherlands/</guid>
+      <guid>https://koreanderson.github.io/travel/tags/netherlands/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Travel</title>
-      <link>travel.koreanderson.com/tags/travel/</link>
+      <link>https://koreanderson.github.io/travel/tags/travel/</link>
       <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>travel.koreanderson.com/tags/travel/</guid>
+      <guid>https://koreanderson.github.io/travel/tags/travel/</guid>
       <description></description>
     </item>
     
