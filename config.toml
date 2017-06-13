@@ -1,5 +1,5 @@
 publishDir = "public"
-BaseUrl= "travel.koreanderson.com"
+BaseUrl= "https://koreanderson.github.io/travel/"
 LanguageCode= "en-EN"
 Title= "Koreanderson's Travel Log"
 paginate = 5
