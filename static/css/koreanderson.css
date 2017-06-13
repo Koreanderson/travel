@@ -1,6 +1,12 @@
 .blog-logo img {
 	height: 75px;
 }
+.post-header {
+	margin-bottom: 4rem;
+}
 .icon-feed {
+	display: none;
+}
+.author-image {
 	display: none;
 }
