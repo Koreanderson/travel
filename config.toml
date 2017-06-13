@@ -1,4 +1,4 @@
-publishDir = "docs"
+publishDir = "public"
 BaseUrl= "travel.koreanderson.com"
 LanguageCode= "en-EN"
 Title= "Koreanderson's Travel Log"
