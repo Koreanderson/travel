@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Travel on Koreanderson&#39;s Travel Log</title>
-    <link>https://koreanderson.github.io/travel/tags/travel/</link>
+    <link>http://koreanderson.com/tags/travel/</link>
     <description>Recent content in Travel on Koreanderson&#39;s Travel Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-EN</language>
     <copyright>All rights reserved - 2017</copyright>
     <lastBuildDate>Wed, 02 Nov 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://koreanderson.github.io/travel/tags/travel/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://koreanderson.com/tags/travel/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Koreanderson&#39;s Travel Log</title>
-      <link>https://koreanderson.github.io/travel/post/the-travel-log/</link>
+      <link>http://koreanderson.com/post/the-travel-log/</link>
       <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://koreanderson.github.io/travel/post/the-travel-log/</guid>
-      <description>Koreanderson&amp;rsquo;s Travel Log This log will serve as a way to keep track of some of the places that I&amp;rsquo;ve traveled over the years. Be aware that many of these accounts are being written several months after the actual trip has taken place so it might not be as detailed as I would have liked.</description>
+      <guid>http://koreanderson.com/post/the-travel-log/</guid>
+      <description>This log will serve as a way to keep track of some of the places that I&amp;rsquo;ve traveled over the years. Be aware that many of these accounts are being written several months after the actual trip has taken place so it might not be as detailed as I would have liked.</description>
     </item>
     
     <item>
       <title>The Netherlands 2016</title>
-      <link>https://koreanderson.github.io/travel/post/netherlands-2016/</link>
+      <link>http://koreanderson.com/post/netherlands-2016/</link>
       <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://koreanderson.github.io/travel/post/netherlands-2016/</guid>
+      <guid>http://koreanderson.com/post/netherlands-2016/</guid>
       <description>The Netherlands was the first stop on my brief tour of the European continent. The trip came about when some of the European InKAS 2016 Summer Camp participants decided to host a reunion in Amsterdam. Initially the gathering was going to be primarily Dutch and a few other Europeans. But I was convinced to join by my good friends in the group, so I decided to stay in Europe an extra week and visit some friends.</description>
     </item>
     
