@@ -11,7 +11,7 @@ share = false        # set false to share buttons
 menu = ""           # set "main" to add this content to the main menu
 +++
 
-The first stop on my first trip to the European continent. Some of the European InKAS 2016 Summer Camp participants decided to host a reunion in Amsterdam. Initially it seemed like gathering was going to be mainyl Dutch and a few other Europeans. But my good friends convinced me to not only join, but to also stay in Europe an extra week and explore.
+The Netherlands was the first stop on my brief tour of the European continent. The trip came about when some of the European InKAS 2016 Summer Camp participants decided to host a reunion in Amsterdam. Initially the gathering was going to be primarily Dutch and a few other Europeans. But I was convinced to join by my good friends in the group, so I decided to stay in Europe an extra week and visit some friends.
 
 Highlights of the trip included riding bikes around the streets of Amsterdam, meandering through the Red-light district, a guided boat tour through the canals of the city and enjoying some quality time with good people.
 
