@@ -1,10 +1,15 @@
----
-author: "Koreanderson"
-date: 2016-11-01
-linktitle: Koreanderson's Travel Log
-title: Koreanderson's Travel Log
-highlight: true
----
++++
+author = "Koreanderson"
+date = "2016-11-02"
+draft = false
+title = "Koreanderson's Travel Log"
+slug = "the-travel-log"
+tags = ["travel"]
+image = "images/travel-koreanderson-header.jpg"
+comments = false     # set false to hide Disqus comments
+share = false        # set false to share buttons
+menu = ""           # set "main" to add this content to the main menu
++++
 
 
 # Koreanderson's Travel Log
