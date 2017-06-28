@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://koreanderson.com/post/ireland-2016/</loc>
+    <loc>http://koreanderson.com/post/the-travel-log/</loc>
     <lastmod>2016-11-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://koreanderson.com/post/the-travel-log/</loc>
+    <loc>http://koreanderson.com/post/france-2016/</loc>
+    <lastmod>2016-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://koreanderson.com/post/ireland-2016/</loc>
     <lastmod>2016-11-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -24,7 +29,19 @@
   </url>
   
   <url>
+    <loc>http://koreanderson.com/tags/annecy/</loc>
+    <lastmod>2016-11-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://koreanderson.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://koreanderson.com/tags/france/</loc>
+    <lastmod>2016-11-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -41,7 +58,19 @@
   </url>
   
   <url>
+    <loc>http://koreanderson.com/tags/lyon/</loc>
+    <lastmod>2016-11-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://koreanderson.com/tags/netherlands/</loc>
+    <lastmod>2016-11-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://koreanderson.com/tags/perouges/</loc>
     <lastmod>2016-11-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
