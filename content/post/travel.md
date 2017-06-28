@@ -1,6 +1,7 @@
 +++
 author = "Koreanderson"
 date = "2016-11-02"
+weight = 1
 draft = false
 title = "Koreanderson's Travel Log"
 slug = "the-travel-log"
